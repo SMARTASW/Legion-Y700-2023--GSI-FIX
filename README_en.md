@@ -2,7 +2,7 @@
 
 Magisk mod for making Lenovo Legion Y700 2023(TB-320FC /w Qualcomm Snapdragon 8+ Gen 1) with GSI more useable.
 
-It has been ested under Android 13/14.
+It has been tested under Android 13/14.
 
 This mod is not designed for Legion Y700 2022, **DO NOT INSTALL ON THAT**, you have been warned.
 
